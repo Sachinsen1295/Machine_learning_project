@@ -4,6 +4,3 @@ typing
 sklearn
 pandas
 numpy
-
-
-

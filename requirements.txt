@@ -1,0 +1,8 @@
+Flask
+gunicorn
+typing
+sklearn
+pandas
+numpy
+
+

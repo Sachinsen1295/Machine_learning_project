@@ -158,6 +158,9 @@ venv/
 
 BUILD DOCKER IMAGE
 
+````
+docker --help
+````
 ```` 
 docker build -t <image_name>:<tagname> .
 ````
